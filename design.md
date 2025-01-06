@@ -4,3 +4,4 @@
 
 #### Lewey Geselowitz - Designer At Tesla :)
 #### Alex Mandel - Designer At Superaffective AI :)
+#### Jane Hu - Designer At Google :)
